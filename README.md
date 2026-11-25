@@ -1,4 +1,4 @@
-# Removendo-dados
+
 # Projeto de Tratamento de Dados e Conformidade com a LGPD 🛡️📊
 
 Este projeto demonstra uma pipeline completa de engenharia e preparação de dados utilizando **Python** e **Pandas**. O objetivo principal é consolidar bases de dados distintas de clientes, benefícios de saúde e compras corporativas, aplicando boas práticas de tratamento e regras de privacidade em conformidade com a **LGPD (Lei Geral de Proteção de Dados)**.
